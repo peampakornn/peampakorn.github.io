@@ -1,0 +1,27 @@
+p {
+    color: green;
+    font-size: 20px;
+    font-family: 'Government_16040911', sans-serif;
+  } 
+
+dog {
+    color: yellow;
+}
+
+li {
+    color: purple;
+    font-size: 18px;
+    font-family: 'Government_16040911', sans-serif;
+}
+
+h2 {
+    color: black;
+    font-size: 24px;
+    font-family: 'Government_16040911', sans-serif;
+}
+
+h1 {
+    color: black;
+    font-size: 36px;
+    font-family: 'Government_16040911', sans-serif;
+}
